@@ -1,2 +1,23 @@
-# Viselica-Mini-text-game
-Mini-text-game.
+# Игра "Виселица" на Python
+
+Две версии игры:
+1. Консольная (`hangman_console.py`)
+2. Графическая с tkinter (`hangman_gui.py`)
+
+## Как запустить?
+### Консольная версия
+```bash
+python hangman_console.py
+```
+
+### Графическая версия (требуется tkinter)
+```bash
+python hangman_gui.py
+```
+
+## Особенности
+- Угадывание животных
+- 6 попыток
+- Поддержка русского языка
+
+![Скриншот игры](screenshot.png)  # Добавьте позже скриншот
