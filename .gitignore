@@ -1,0 +1,10 @@
+echo "# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Build
+/dist/
+/build/
+*.spec" > .gitignore
