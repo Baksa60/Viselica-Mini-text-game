@@ -40,6 +40,6 @@ pyinstaller --onefile --windowed src/hangman_gui.py
 
 ![Скриншот игры](images/console_version.png)
 ![Скриншот игры](images/console_version_2.png)  
-![Скриншот игры](gui_version.png)
-![Скриншот игры](gui_version_2.png)
-![Скриншот игры](gui_version_3.png)
+![Скриншот игры](images/gui_version.png)
+![Скриншот игры](images/gui_version_2.png)
+![Скриншот игры](images/gui_version_3.png)
