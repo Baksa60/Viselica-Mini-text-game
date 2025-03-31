@@ -1,9 +1,9 @@
 # Игра "Виселица" на Python
 
-Две версии игры:
-1. Консольная (`hangman_console.py`)
-2. Графическая с tkinter (`hangman_gui.py`)
-
+Три версии игры:
+1. Консольная (`Viselica_console.py`)
+2. Графическая с tkinter (`Viselica_gui.py`)
+3. EXE - файл(`Viselica.exe`)
 ## Как запустить?
 ### Консольная версия
 ```bash

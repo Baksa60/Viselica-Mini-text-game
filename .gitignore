@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 echo "# Python
 __pycache__/
 *.pyc
@@ -8,3 +9,29 @@ venv/
 /dist/
 /build/
 *.spec" > .gitignore
+=======
+# Создаем .gitignore с базовыми исключениями для Python
+echo "# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Build and distribution
+dist/
+build/
+*.spec
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db" > .gitignore
+>>>>>>> 623236dd339103fd65ee325a9ef3d735e6c1a230
