@@ -1,0 +1,24 @@
+# Создаем .gitignore с базовыми исключениями для Python
+echo "# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Build and distribution
+dist/
+build/
+*.spec
+*.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db" > .gitignore
