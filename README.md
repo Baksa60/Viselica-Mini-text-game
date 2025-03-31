@@ -36,4 +36,10 @@ pyinstaller --onefile --windowed src/hangman_gui.py
 ## 🛠 Для разработчиков
 Исходный код в папке `src/`.
 
-![Скриншот игры](images/console_version.png)  
+##  Скриншоты игры.
+
+![Скриншот игры](images/console_version.png)
+![Скриншот игры](images/console_version_2.png)  
+![Скриншот игры](gui_version.png)
+![Скриншот игры](gui_version_2.png)
+![Скриншот игры](gui_version_3.png)
