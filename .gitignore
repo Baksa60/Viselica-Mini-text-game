@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# PyInstaller
+/build/
+/dist/
+*.spec
+
+# Исключите .exe в корне, но разрешите в /dist/
+/*.exe
